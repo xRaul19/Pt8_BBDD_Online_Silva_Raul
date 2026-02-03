@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796210941623",
+    "project_id": "pt8-bbdd-online-silva-raul",
+    "storage_bucket": "https://pt8-bbdd-online-silva-raul-default-rtdb.europe-west1.firebasedatabase.app/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796210941623:android:d69958fa64d5eae4408732",
+        "android_client_info": {
+          "package_name": "com.example.pt8_bbdd_online_silva_raul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi_TEd3pUozaHYrvQgNSNCvor9i7yupKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
