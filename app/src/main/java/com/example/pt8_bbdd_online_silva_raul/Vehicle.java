@@ -8,6 +8,10 @@ public class Vehicle {
     private String marca;
     private String model;
 
+    public Vehicle() {
+
+    }
+
     public Vehicle(String matricula, String nom, String cognoms, String telefon, String marca, String model) {
         this.matricula = matricula;
         this.nom = nom;
